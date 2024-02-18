@@ -1,0 +1,75 @@
+/* style.css */
+
+body {
+    font-family: 'Gotham', sans-serif;
+    background-color: #282828;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin: 0;
+}
+
+h1 {
+    font-size: 36px;
+    margin-bottom: 30px;
+    color: #1DB954;
+}
+
+#spotify_form {
+    margin-bottom: 20px;
+}
+
+#spotify_url {
+    width: 400px;
+    height: 40px;
+    font-size: 16px;
+    padding: 10px;
+    box-sizing: border-box;
+    border: none;
+    border-radius: 20px;
+    background-color: #fff;
+    margin-right: 10px;
+}
+
+#scrape_button {
+    background-color: #1DB954;
+    color: white;
+    font-size: 16px;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 20px;
+    transition: background-color 0.3s;
+}
+
+#scrape_button:hover {
+    background-color: #24b662;
+}
+
+#result {
+    margin: 0 auto;
+    max-width: 600px;
+    text-align: left;
+}
+
+#playlist_image {
+    max-width: 100%;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+
+.button {
+    background-color: #1DB954;
+    color: white;
+    font-size: 16px;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 20px;
+    margin-top: 20px;
+    transition: background-color 0.3s;
+}
+
+.button:hover {
+    background-color: #24b662;
+}

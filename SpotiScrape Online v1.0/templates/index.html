@@ -1,0 +1,22 @@
+<!-- index.html -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SpotiScrape</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <h1>SpotiScrape Online</h1>
+    <form id="spotify_form">
+        <input type="text" id="spotify_url" placeholder="Enter Spotify URL...">
+        <button type="button" id="scrape_button">Scrape</button>
+    </form>
+    <div id="result"></div>
+    <button class="button" id="download_button">Download Artwork</button>
+    <button class="button" id="clear_button">Clear Input</button>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
