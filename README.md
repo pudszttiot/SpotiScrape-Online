@@ -8,7 +8,10 @@ SpotiScrape Online is a tool that enables you to obtain high-quality images of a
 
 ## Screenshots
 
-<img src="INSERT.SCREENSHOT.IMAGE.URL.HERE.png" alt="Screenshot-1" border="0">
+<p float="left">
+<img width="430" height="300" src="https://raw.githubusercontent.com/pudszttiot/Folder-Templates/main/how-to-take-Screenshot.jpg" alt="Screenshot-1" border="0">
+<img width="430" height="300" src="https://raw.githubusercontent.com/pudszttiot/Folder-Templates/main/how-to-take-Screenshot.jpg" alt="Screenshot-1" border="0">
+  </p>
 
 ## Table of Contents
 
@@ -16,24 +19,24 @@ SpotiScrape Online is a tool that enables you to obtain high-quality images of a
 - [Usage](#usage)
 - [Features](#features)
 - [Contributing](#contributing)
-- [License](#license)
+- [Contact](#contact)
 
 ## Installation
 
-Explain how to install your project.
+[Provide detailed steps on how to install your project. Include any prerequisites and dependencies that need to be installed beforehand. You can also include code snippets or commands to simplify the installation process.]
 
 ## Usage
 
-Provide examples and guidelines on how to use your project.
+[Explain how users can use your project. Provide examples or code snippets demonstrating its usage. Include any configuration or setup instructions.]
 
 ## Features
 
-List and describe the key features of your project.
+[List the key features of your project. This section should highlight what sets your project apart and why users would want to use it.]
 
 ## Contributing
 
-Contributions and feedback are welcome! Feel free to submit issues, feature requests, or pull requests to enhance ENTER.APP.NAME.HERE.
+[Explain how others can contribute to your project. Include guidelines for submitting bug reports, feature requests, or code contributions. You can also mention any coding standards or conventions to follow.]
 
-## License
+## Contact
 
-This project is licensed under the MIT License.
+[Provide contact information for users to reach out to you with questions, feedback, or inquiries. This can include your email address, social media profiles, or links to relevant communication channels.]
