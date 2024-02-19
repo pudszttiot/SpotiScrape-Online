@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Integrated Page</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='help.css') }}">
+    <style>
+        .carousel-item img {
+            max-width: 80%;
+            height: auto;
+            max-height: 550px; /* Adjust this value as needed */
+            margin: 0 auto; /* Center the images horizontally */
+        }
+    </style>
+</head>
+<body>
+    <div class="menu-bar">
+        <div class="menu-container">
+            <a href="/">Home</a>
+            <a href="/about">About</a>
+            <a href="/help">Help / How To Use</a>
+        </div>
+    </div>
+    <div class="content">
+        <br><h1>Help / How To Use</h1>
+        <p style="text-align: center;">This page provides assistance and answers to frequently asked questions about SpotiScrape Online application.</p>
+        <br>
+        <h3 class="h3"><span style="text-decoration: underline; font-size: 14pt;"><strong>SpotiScrape Online</strong></span></h3>
+        <p>"SpotiScrape Online" is a tool that enables you to obtain high-quality images of artwork from Spotify for various elements such as tracks, playlists, artists, albums, and profiles. With this tool, you can easily download artwork from Spotify for the content of your choosing.</p>
+        <h3><strong><span style="text-decoration: underline;"><span style="font-size: 14pt;">Key Features:</span></span></strong></h3>
+        <p><strong><em>Spotify Information Retrieval:</em></strong></p>
+        <ul>
+            <li>Quickly scrape detailed information such as artist, album, track/playlist name, and artwork from Spotify URLs.</li>
+        </ul>
+        <p><em><strong>Artwork Download</strong>:</em></p>
+        <ul>
+            <li>Download artwork associated with tracks or playlists directly from Spotify URLs.</li>
+        </ul>
+        <p><em><strong>Multiple Resolutions</strong>:</em></p>
+        <ul>
+            <li>Available in three resolutions: 640x640, 300x300, and 64x64, allowing users to choose the preferred image size for their needs.</li>
+        </ul>
+        <p><em><strong>Free to Use</strong>:</em></p>
+        <ul>
+            <li>The web app is completely free to use, providing a convenient solution for accessing Spotify information and artwork.</li>
+        </ul>
+        <br /><hr /><br />
+        <h3 class="h3"><strong><span style="text-decoration: underline;">How to get Spotify cover artwork</span></strong></h3>
+        <p>Just follow these steps:</p>
+        <ol>
+            <li>Open&nbsp;<a href="https://www.spotify.com/us/download/">Spotify App</a> or <a href="https://open.spotify.com/">Spotify Web Player</a> &amp; search the track/playlist or album for which you want to download the artwork image.</li>
+            <li>Click on the three-dots.</li>
+            <li>Click on the Share button.</li>
+            <li>Click the Copy link button. Doing this will copy the track/playlist/album link on the clipboard.</li>
+</ol>
+<p>The copied link should be in one of the following formats:</p>
+<ul style="list-style-type: square;">
+<li>https://open.spotify.com/track/{key}</li>
+<li>https://open.spotify.com/playlist/{key}</li>
+<li>https://open.spotify.com/album/{key}</li>
+<li>https://open.spotify.com/user/{key}</li>
+<li>https://open.spotify.com/artist/{key}</li>
+</ul>
+        <p>&nbsp;</p>
+        <p><span style="background-color: #f1c40f;"><em>***Song Example***</em></span></p>
+
+    <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" style="margin-top: 20px;">
+        <ol class="carousel-indicators">
+            <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+            <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+
+        </ol>
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img class="d-block w-100" src="https://raw.githubusercontent.com/pudszttiot/SpotiScrape-Online/main/Images/songstep1.png" alt="First slide">
+            </div>
+            <div class="carousel-item">
+                <img class="d-block w-100" src="https://raw.githubusercontent.com/pudszttiot/SpotiScrape-Online/main/Images/songstep2.png" alt="Second slide">
+            </div>
+        </div>
+        <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+        </a>
+        <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+        </a>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+    </div>
+
+
+
+
+</body>
+</html>
