@@ -24,6 +24,15 @@ SpotiScrape Online is a tool that enables you to obtain high-quality images of a
 
 ## Installation
 
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/pudszttiot/SpotiScrape-Online.git
+   ```
+
+2. **Install dependencies:**
+   ```bash
+   pip install -r requirements.txt
+   ```
 [Provide detailed steps on how to install your project. Include any prerequisites and dependencies that need to be installed beforehand. You can also include code snippets or commands to simplify the installation process.]
 
 ## Usage
