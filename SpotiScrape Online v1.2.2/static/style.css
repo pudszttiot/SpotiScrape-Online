@@ -1,0 +1,165 @@
+/* style.css */
+
+body {
+    font-family: 'Gotham Medium', sans-serif;
+    background-color: #282828;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin: 0;
+}
+
+h1 {
+    font-size: 40px;
+    margin-bottom: 30px;
+    color: #1DB954;
+}
+
+#spotify_form {
+    margin-bottom: 20px;
+}
+
+#spotify_url {
+    width: 400px;
+    height: 40px;
+    font-size: 16px;
+    padding: 10px;
+    box-sizing: border-box;
+    border: none;
+    border-radius: 20px;
+    background-color: #fff;
+    margin-right: 10px;
+}
+
+#scrape_button {
+    background-color: #1DB954;
+    color: white;
+    font-size: 16px;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 20px;
+    transition: background-color 0.3s;
+}
+
+#scrape_button:hover {
+    background-color: #24b662;
+}
+
+#result {
+    margin: 0 auto;
+    max-width: 600px;
+    text-align: center;
+}
+
+#playlist_image {
+    max-width: 100%;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+
+.button {
+    background-color: #1DB954;
+    color: white;
+    font-size: 16px;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 20px;
+    margin-top: 20px;
+    transition: background-color 0.3s;
+}
+
+.button:hover {
+    background-color: #24b662;
+}
+
+/* New styles for the download button */
+#download_button {
+    background-color: #1DB954;
+    color: white;
+    font-size: 16px;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 20px;
+    margin: 20px auto 0; /* Center the button horizontally */
+    display: block; /* Ensure the button is a block element for margin auto to work */
+    transition: background-color 0.3s;
+}
+
+#download_button:hover {
+    background-color: #24b662;
+}
+
+/* Menu bar styles */
+
+.menu-bar {
+    background: linear-gradient(135deg, #1DB954, #00897B);
+    position: fixed;
+    width: 100%;
+    height: 60px;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.menu-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 10px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.menu-container a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 12px 20px;
+    margin: 0 15px;
+    transition: transform 0.3s, background-color 0.3s;
+    border-radius: 8px;
+    font-family: 'Gotham Medium', sans-serif;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    border: 2px solid transparent;
+}
+
+.menu-container a:hover {
+    background-color: #009688;
+    transform: translateY(-2px);
+    border-color: #fff;
+}
+
+/* Logo styles */
+.logo-container {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.logo {
+    width: 600px;
+    height: auto;
+    transition: transform 0.3s ease;
+}
+
+/* Paste button styles */
+#paste_button {
+    background-color: #006dfa;
+    color: white;
+    font-size: 16px;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 20px;
+    transition: background-color 0.3s;
+    margin-left: 10px; /* Adjust margin as needed */
+}
+
+#paste_button:hover {
+    background-color: #1a7cfb;
+}
