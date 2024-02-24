@@ -9,8 +9,9 @@ SpotiScrape Online is a tool that enables you to obtain high-quality images of a
 ## Screenshots
 
 <p float="left">
-<img width="430" height="300" src="https://raw.githubusercontent.com/pudszttiot/SpotiScrape-Online/main/Images/spotiscrape.gif" alt="Screenshot-GIF-1" border="0">
-<img width="430" height="300" src="https://raw.githubusercontent.com/pudszttiot/Folder-Templates/main/how-to-take-Screenshot.jpg" alt="Screenshot-1" border="0">
+<img width="480" height="380" src="https://raw.githubusercontent.com/pudszttiot/SpotiScrape-Online/main/Images/spotiscrape2.gif" alt="Screenshot-GIF-1" border="0">
+  &nbsp;
+<img width="480" height="380" src="https://raw.githubusercontent.com/pudszttiot/SpotiScrape-Online/main/Images/spotiscrape.gif" alt="Screenshot-GIF-2" border="0">
   </p>
 
 ## Table of Contents
