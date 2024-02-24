@@ -1,0 +1,38 @@
+<!-- index.html -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SpotiScrape Online</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+<!-- Add favicon link -->
+    <link rel="icon" type="image/png" href="{{ url_for('static', filename='favicon.png') }}">
+</head>
+<body>
+    <div class="menu-bar">
+        <div class="menu-container">
+            <a href="/">Home</a>
+            <a href="/about">About</a>
+            <a href="/help">Help / How To Use</a>
+            <a href="/contact">Contact</a> <!-- New link for the contact page -->
+        </div>
+    </div>
+    <br>
+    <div class="logo-container">
+        <img src="{{ url_for('static', filename='image1.png') }}" alt="SpotiScrape Logo" class="logo">
+    </div>
+    <br>
+    <form id="spotify_form">
+        <input type="text" id="spotify_url" placeholder="Enter Spotify URL...">
+        <button type="button" id="paste_button">Paste</button>
+        <button type="button" id="scrape_button">Scrape</button>
+    </form>
+    <div id="result"></div>
+    <button class="button" id="download_button" style="display: none;">Download Artwork</button>
+    <button class="button" id="clear_button" style="display: none;">Clear Input</button> <!-- Moved clear button below result -->
+    
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Contact</title>
+   <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+   <header>
+      <div class="menu-bar">
+         <div class="menu-container">
+            <a href="/" alt="Home">Home</a>
+            <a href="/about" alt="About">About</a>
+            <a href="/help" alt="Help / How To Use">Help / How To Use</a>
+            <a href="/contact" alt="Contact">Contact</a>
+         </div>
+      </div>
+   </header>
+   <main><br><br><br>
+      <h1 style="text-align: center;">Contact</h1>
+      <section>
+         <p>If you have any questions or feedback, please feel free to contact us at:</p>
+         <div class="contact-info">
+            <p>Email: example@example.com</p>
+            <p>Phone: 123-456-7890</p>
+         </div>
+      </section>
+      <section>
+         <h2>Contact Form</h2>
+         <form action="#" method="post">
+            <label for="name">Your Name:</label>
+            <input type="text" id="name" name="name" required>
+            <label for="email">Your Email:</label>
+            <input type="email" id="email" name="email" required>
+            <label for="message">Your Message:</label>
+            <textarea id="message" name="message" required></textarea>
+            <button type="submit">Send Message</button>
+         </form>
+      </section>
+      <section>
+         <h2>Socials</h2>
+         <div class="social-links">
+
+<!-- Add social media icons -->
+    <div class="social-icons">
+        <a href="https://github.com/pudszttiot"><img src="{{ url_for('static', filename='img/social_icons/Github.png') }}" alt="Github"></a>
+        <a href="https://github.com/pudszttiot"><img src="{{ url_for('static', filename='img/social_icons/Github.png') }}" alt="Github" width="100" height="100" border="0"></a>
+        <!-- Add more social media icons as needed -->
+<a href="https://github.com/pudszttiot" style="display:inline-block; text-decoration:none; color:#e8eaea; margin-right:20px;" onclick="openLink('https://github.com/pudszttiot')">Github</a><img src="{{ url_for('static', filename='img/social_icons/Github.png') }}" alt="Github" width="100" height="100" border="0"></a>
+    </div>
+<span>
+       <a href="https://github.com/pudszttiot"><img src="{{ url_for('static', filename='img/social_icons/Github.png') }}" alt="Github" width="20" height="20" border="2"></a>
+        
+        </span>
+            </a>
+            <a href="#" target="_blank" rel="noopener noreferrer" class="social-link">
+               <img src="twitter.png" alt="Twitter">
+            </a>
+            <a href="#" target="_blank" rel="noopener noreferrer" class="social-link">
+               <img src="instagram.png" alt="Instagram">
+            </a>
+         </div>
+      </section>
+   </main>
+</body>
+
+</html>
