@@ -33,11 +33,13 @@ SpotiScrape Online is a tool that enables you to obtain high-quality images of a
    ```bash
    pip install -r requirements.txt
    ```
-[Provide detailed steps on how to install your project. Include any prerequisites and dependencies that need to be installed beforehand. You can also include code snippets or commands to simplify the installation process.]
 
 ## Usage
 
-[Explain how users can use your project. Provide examples or code snippets demonstrating its usage. Include any configuration or setup instructions.]
+**Run the Flask app:**
+   ```bash
+   python your_app_name.py
+   ```
 
 ## Features
 
