@@ -57,8 +57,9 @@ SpotiScrape Online is a tool that enables you to obtain high-quality images of a
 
 ## Contributing
 
-[Explain how others can contribute to your project. Include guidelines for submitting bug reports, feature requests, or code contributions. You can also mention any coding standards or conventions to follow.]
+Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or create a pull request on [GitHub](https://github.com/pudszttiot/SpotiScrape-Online).
 
 ## Contact
 
+For any inquiries or support, you can contact [your_email@example.com](mailto:your_email@example.com).
 [Provide contact information for users to reach out to you with questions, feedback, or inquiries. This can include your email address, social media profiles, or links to relevant communication channels.]
