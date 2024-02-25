@@ -62,4 +62,8 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 ## Contact
 
 For any inquiries or support, you can contact [pudszttiot9@proton.me](mailto:pudszttiot9@proton.me)
-[This can include your email address, social media profiles, or links to relevant communication channels.]
+<br>
+<span>
+        <img src="https://raw.githubusercontent.com/pudszttiot/SpotiScrape-Online/main/Images/Socials/Youtube.png" alt="Youtube.png" width="50" height="50" border="2">
+        <a href="https://youtube.com/@pudszTTIOT" style="display:inline-block; text-decoration:none; color:#ff0000;" onclick="openLink('https://youtube.com/@pudszTTIOT')">YouTube</a>
+        </span>
