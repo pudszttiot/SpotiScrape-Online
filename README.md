@@ -61,5 +61,5 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## Contact
 
-For any inquiries or support, you can contact [your_email@example.com](mailto:your_email@example.com).
-[Provide contact information for users to reach out to you with questions, feedback, or inquiries. This can include your email address, social media profiles, or links to relevant communication channels.]
+For any inquiries or support, you can contact [pudszttiot9@proton.me](mailto:pudszttiot9@proton.me).
+[This can include your email address, social media profiles, or links to relevant communication channels.]
