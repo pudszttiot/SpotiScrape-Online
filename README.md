@@ -61,5 +61,5 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## Contact
 
-For any inquiries or support, you can contact [pudszttiot9@proton.me](mailto:pudszttiot9@proton.me).
+For any inquiries or support, you can contact [pudszttiot9@proton.me](mailto:pudszttiot9@proton.me)
 [This can include your email address, social media profiles, or links to relevant communication channels.]
