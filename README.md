@@ -40,12 +40,20 @@ SpotiScrape Online is a tool that enables you to obtain high-quality images of a
    python run.py
    ```
 
-
-
-
 ## Features
 
-[List the key features of your project. This section should highlight what sets your project apart and why users would want to use it.]
+- **Scrape Spotify URLs:**
+  - Quickly scrape detailed information such as artist, album, track/playlist name, and artwork from Spotify URLs.
+- **Download Artwork:**
+  - Download artwork associated with tracks or playlists directly from Spotify URLs.
+- **Multiple Resolutions:**
+  - Available in three resolutions: 640x640, 300x300, and 64x64, allowing users to choose the preferred image size for their needs.
+- **Clear Input:**
+  - Effortlessly clear input fields to start fresh or make corrections.
+- **Load and Display Artwork:**
+  - Seamlessly load and display artwork images within the application for visual enjoyment.
+- **Free to Use:**
+  - The web app is completely free to use, providing a convenient solution for accessing Spotify information and artwork.
 
 ## Contributing
 
