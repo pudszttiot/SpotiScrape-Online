@@ -35,11 +35,13 @@ SpotiScrape Online is a tool that enables you to obtain high-quality images of a
    ```
 
 ## Usage
-
-1. **Run the Flask app:**
+- **Run the app using the below command:**
    ```bash
-   python your_app_name.py
+   python run.py
    ```
+
+
+
 
 ## Features
 
