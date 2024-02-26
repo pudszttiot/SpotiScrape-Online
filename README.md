@@ -75,7 +75,7 @@ For any inquiries or support, you can contact [pudszttiot9@proton.me](mailto:pud
         </span>
 
 <span>
-        <img src="https://raw.githubusercontent.com/pudszttiot/SpotiScrape-Online/main/Images/Socials/SourceForge.png" alt="SourceForge.png" width="50" height="50" border="2">
+        <img src="https://raw.githubusercontent.com/pudszttiot/SpotiScrape-Online/main/Images/Socials/SourceForge2.png" alt="SourceForge.png" width="50" height="50" border="2">
         <a href="https://sourceforge.net/u/pudszttiot" style="display:inline-block; text-decoration:none; color:#ee730a;" onclick="openLink('https://sourceforge.net/u/pudszttiot')">SourceForge</a>
         </span>
 
@@ -91,10 +91,15 @@ For any inquiries or support, you can contact [pudszttiot9@proton.me](mailto:pud
 
 <span>
         <img src="https://raw.githubusercontent.com/pudszttiot/SpotiScrape-Online/main/Images/Socials/Bitchute.png" alt="BitChute.png" width="50" height="50" border="2">
-        <a href="https://www.bitchute.com/channel/pudszttiot/" style="display:inline-block; text-decoration:none; color:#ff5722;" onclick="openLink('https://bitchute.com/channel/pudszttiot/')">BitChute</a>
+        <a href="https://bitchute.com/channel/pudszttiot/" style="display:inline-block; text-decoration:none; color:#ff5722;" onclick="openLink('https://bitchute.com/channel/pudszttiot/')">BitChute</a>
         </span>
 
 <span>
         <img src="https://raw.githubusercontent.com/pudszttiot/SpotiScrape-Online/main/Images/Socials/Reddit.png" alt="Reddit.png" width="50" height="50" border="2">
         <a href="https://reddit.com/user/puddsszz" style="display:inline-block; text-decoration:none; color:#ff5722;" onclick="openLink('https://reddit.com/user/puddsszz')">Reddit</a>
+        </span>
+
+<span>
+        <img src="https://raw.githubusercontent.com/pudszttiot/SpotiScrape-Online/main/Images/Socials/Playstation.png" alt="PlayStation.png" width="50" height="50" border="2">
+        <a href="https://psnprofiles.com/snippapudsz" style="display:inline-block; text-decoration:none; color:#ff5722;" onclick="openLink('https://psnprofiles.com/snippapudsz')">PlayStation</a>
         </span>
