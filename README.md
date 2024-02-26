@@ -90,7 +90,7 @@ For any inquiries or support, you can contact [pudszttiot9@proton.me](mailto:pud
         </span>
 
 <span>
-        <img src="https://raw.githubusercontent.com/pudszttiot/SpotiScrape-Online/main/Images/Socials/Bitchute.png" alt="BitChute.png" width="50" height="50" border="2">
+        <img src="https://raw.githubusercontent.com/pudszttiot/SpotiScrape-Online/main/Images/Socials/BitChute_Social.png" alt="BitChute.png" width="50" height="50" border="2">
         <a href="https://bitchute.com/channel/pudszttiot/" style="display:inline-block; text-decoration:none; color:#ff5722;" onclick="openLink('https://bitchute.com/channel/pudszttiot/')">BitChute</a>
         </span>
 
