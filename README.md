@@ -1,8 +1,18 @@
+<a name="top"></a>
+
 <p align="center">
   <img width="660" height="500" src="https://raw.githubusercontent.com/pudszttiot/SpotiScrape-Online/main/Images/spotiscrapeonline2.png">
 </p>
 
-# SpotiScrape Online
+<h2 align="center">
+
+---
+
+SpotiScrape Online
+
+---
+
+## Description
 
 SpotiScrape Online is a tool that enables you to obtain high-quality images of artwork from Spotify for various elements such as tracks, playlists, artists, albums, and profiles. With this tool, you can easily download artwork from Spotify for the content of your choosing.
 
@@ -36,6 +46,7 @@ SpotiScrape Online is a tool that enables you to obtain high-quality images of a
 
 ## Usage
 - **Run the app using the below command:**
+
    ```bash
    python run.py
    ```
@@ -103,3 +114,19 @@ For any inquiries or support, you can contact [pudszttiot9@proton.me](mailto:pud
         <img src="https://raw.githubusercontent.com/pudszttiot/SpotiScrape-Online/main/Images/Socials/Playstation.png" alt="PlayStation.png" width="50" height="50" border="2">
         <a href="https://psnprofiles.com/snippapudsz" style="display:inline-block; text-decoration:none; color:#ff5722;" onclick="openLink('https://psnprofiles.com/snippapudsz')">PlayStation</a>
         </span>
+
+
+<br>
+<br>
+
+---
+
+<br>
+
+<h5 align="center">
+
+[<img width="100" height="100" src="https://raw.githubusercontent.com/pudszttiot/Folder-Templates/main/Images/back-to-top.png">](#top)
+
+[Back to top](#top)
+
+<br>
